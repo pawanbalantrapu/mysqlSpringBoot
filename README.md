@@ -24,7 +24,7 @@ https://dev.mysql.com/doc/refman/8.0/en/restart.html
 login lo mysql as client ( use mysql workbench or from terminal)
 Compile the following functions and procedures in the same order
 1) camelCase.sql
-2) PascalCase.sql
+2) proper_Case.sql
 3) GenJavaModelAllTabs.sql
 4) GenJavaDAOAllTabs.sql
 
